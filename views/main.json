@@ -1,0 +1,26 @@
+{
+	"style": {
+		"background-color": "white",
+		"border": 5
+	},
+
+	"contents": [
+		{
+			"name": "lbl1",
+			"control": "TextView",
+			"label": "Press enter & type \"show\" / \"hide\" (without \")"
+		},
+		{
+			"name": "input",
+			"control": "InputBox",
+			"style": {
+				"background-color": "#dadada",
+				"color": "black",
+				"width": "fill-parent",
+				"height": "wrap-content",
+				"align": "center",
+				"valign": "middle"
+			}
+		}
+	]
+}
